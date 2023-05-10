@@ -7,4 +7,4 @@ the water level. A web application is developed using HTML, CSS, and C++ to remo
 monitor and control the water level controller system. The system is cost-effective and 
 energy-efficient, which can save money and prevent unnecessary water and electricity 
 consumption. The proposed system has potential applications in households, commercial 
-buildings, and industries to promote sustainable water usage and prevent water pollution
+buildings, and industries to promote sustainable water usage and prevent water pollution.
